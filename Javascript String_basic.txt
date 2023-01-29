@@ -1,0 +1,11 @@
+"Hello World".length
+
+'hello world'.toUpperCase()
+
+"hello world".toUpperCase()
+
+"Hello World".indexOf('W')
+"Hello World".indexOf('w')
+
+'Hello                World'.trim()
+'               HEllo World       '.trim()
